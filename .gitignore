@@ -1,0 +1,10 @@
+# Dataset (WAJIB dirahasiakan)
+dataset.csv
+*.csv
+
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+.ipynb_checkpoints/
