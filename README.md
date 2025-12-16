@@ -1,4 +1,4 @@
-# Tugas MID Pengantar Data Sains
+# Tugas UAS Pengantar Data Sains
 
 Preprocessing data curah hujan harian wilayah Tompobulu
 menggunakan Python dan Jupyter Notebook.
